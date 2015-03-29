@@ -1,2 +1,2 @@
-# NSArray-NullCategory
-An NSArray category that returns NSNull when accessing an index out of its range.
+# NSArray-BUZCategory
+An NSArray category with some helpful functions.
